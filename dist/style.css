@@ -60,9 +60,9 @@ body
 {
   background-color:rgb(160,136,75,0.4);
   position:relative;
-  left: 920px;
-  right:1000px;
-  width: 300px;
+  right:50%;
+  left:80%;
+  width: 20%;
   padding: 4px;
   top:500px;
   bottom:2200px;
